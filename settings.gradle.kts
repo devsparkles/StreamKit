@@ -23,5 +23,9 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "StreamKit"
-include(":app")
-include(":core:player")
+include(":demoapp:mobile")
+include(":demoapp:tv")
+include(":core")
+include(":core:features")
+include(":core:features:player")
+include(":core:features:designsystem")

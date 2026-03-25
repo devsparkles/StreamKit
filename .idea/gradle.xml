@@ -8,9 +8,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/core" />
-            <option value="$PROJECT_DIR$/core/player" />
+            <option value="$PROJECT_DIR$/core/features" />
+            <option value="$PROJECT_DIR$/core/features/demo" />
+            <option value="$PROJECT_DIR$/core/features/designsystem" />
+            <option value="$PROJECT_DIR$/core/features/player" />
+            <option value="$PROJECT_DIR$/demoapp" />
+            <option value="$PROJECT_DIR$/demoapp/mobile" />
+            <option value="$PROJECT_DIR$/demoapp/tv" />
           </set>
         </option>
       </GradleProjectSettings>
